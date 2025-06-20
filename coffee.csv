@@ -1,0 +1,18 @@
+order_id,Date,Day,Coffee Type,Units Sold
+1001,2025-04-07,mon,espresso,25
+1001,2025-04-07,Monday,espresso,25
+1001,2025-04-07,monday,espresso,26
+1002,2025-04-07,Monday,latte,15
+1003,2025-04-08,Tue,,30
+,,,,
+1004,2025-04-09,wed,espresso,35
+1005,2025-04-09,Wednesday,latte,
+1006,2025-04-10,Thu,espresso,40
+1007,2025-04-10,thu,latte,30
+1008,2025-04-11,,espresso,
+1009,2025-04-11,FRI,latte,35
+1010,2025-04-12,Saturday,espresso,45
+1011,2025-04-12,Saturday,latte,
+1012,2025-04-13,Sunday,espresso,
+1013,2025-04-13,sunday,espresso,
+1009,2025-04-11,Friday,latte,35
