@@ -1,0 +1,30 @@
+<company>
+  <staff id="101">
+    <names>
+		<firstName>Arjun</firstName>
+		<lastName>A</lastName>
+	</names>
+    <expense>35000</expense>
+  </staff>
+  <staff id="102">
+	<names>
+		<firstName>Balaram</firstName>
+		<lastName>B</lastName>
+	</names>
+    <expense>42000</expense>
+  </staff>
+  <staff id="103">
+	<names>
+		<firstName>Chaitanya</firstName>
+		<lastName>C</lastName>
+	</names>
+    <expense>38000</expense>
+  </staff>
+  <staff id="104">
+	  <names>
+			<firstName>Damodar</firstName>
+			<lastName>D</lastName>
+		</names>
+     <expense>46000</expense>
+  </staff>
+</company>
